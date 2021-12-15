@@ -1,0 +1,108 @@
+body{
+	background-image: url("../images/2.jpg");
+	
+}
+a{
+	font-size: 120%;
+}
+.para1{
+	color: DFD8CA;
+	font-size: 150%;
+	font-family: papyrus;
+}
+.para2{
+	color: 87AAAA;
+	font-family: lucida handwriting;
+}
+.para3{
+	color: 87AAAA;
+	font-family: lucida handwriting;
+}
+.para4{
+	color: 87AAAA;
+	font-family: lucida handwriting;
+}
+		.para5{
+			color: DFD8CA;
+			font-size: 150%;
+			font-family: papyrus;
+
+		}
+		.para6{
+			color: DFD8CA;
+			font-size: 150%;
+			font-family: papyrus;
+		}
+		.para7{
+			font-family: lucida handwriting;
+			color: white;
+		}
+		.para8{
+			font-family: lucida handwriting;
+			color: white;
+		}
+		.para9{
+			font-family: lucida handwriting;
+			color: white;
+		}
+		.para10{
+			font-family: papyrus;
+		}
+		.para11{
+		font-family: papyrus;
+		}
+		.para12{
+			font-family: papyrus;
+		}
+		.para13{
+			font-family: papyrus;
+		}
+		.para14{
+			font-family: papyrus;
+		}
+		.para15{
+			font-family: papyrus;
+		}
+		.para16{
+			font-family: papyrus;
+		}
+		.para17{
+			font-family: papyrus;
+		}
+		.para18{
+			font-family: papyrus;
+		}
+		.para19{
+			font-family: papyrus;
+		}
+		.para20{
+			font-family: papyrus;
+		}
+		.para21{
+			font-family: papyrus;
+		}
+table{
+	background: #E6DDC4;
+	margin-bottom: 2%;
+}
+h2{
+			color: B91646;
+			font-size: 150%;
+			font-family: papyrus;
+	
+}
+footer{
+		color: DFD8CA;
+		}
+#heading{
+	color: B91646;
+	font-size: 350%;
+    font-family: papyrus;
+
+}
+#heading2{
+	font-family: lucida handwriting;
+}
+#heading3{
+	font-family: lucida handwriting;
+}
